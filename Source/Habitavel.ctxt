@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getQuartos()
+comment0.text=\ n\u00BA\ de\ quartos\n\ n\u00BA\ de\ wc's\n
+comment1.params=
+comment1.target=int\ getWcs()
+numComments=2

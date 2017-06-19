@@ -1,0 +1,246 @@
+VENDEDORES
+
+-----------------------------
+username: ventuz
+email: ventuzelos@gmail.com
+Password: luis1234
+Nome: Luis Ventuzelos
+Morada: rua dos moinhos, Braga
+Data de Nascimento: 22/03/1969
+
+Imoveis inseridos:
+---Moradia---
+ID: 1
+Tipo (geminada,banda,gaveto): geminada
+Distrito: Braga
+Rua: rua do Antonio
+Preço pedido: 120000
+Preço minimo: 100000
+Estado da habitação: Em Venda
+Área de implantação (m^2): 200
+Área total coberta (m^2): 150
+Área do terreno envolvente (m^2): 50
+Numero de quartos: 5
+Numero de WC's: 2
+Numero da porta: 78
+
+
+
+---Moradia---
+ID: 4
+Tipo (geminada,banda,gaveto): banda
+Distrito: Porto
+Rua: rua das Flores
+Preço pedido: 200000
+Preço minimo: 195000
+Estado da habitação: Em Venda
+Área de implantação (m^2): 230
+Área total coberta (m^2): 190 
+Área do terreno envolvente (m^2): 40
+Numero de quartos: 6
+Numero de WC's: 3
+Numero da porta: 18
+
+
+
+---Moradia---
+ID: 5
+Tipo (geminada,banda,gaveto): gaveto
+Distrito: Guimaraes
+Rua: rua da travessa
+Preço pedido: 90000
+Preço minimo: 89000
+Estado da habitação: Em Venda
+Área de implantação (m^2): 120
+Área total coberta (m^2): 80
+Área do terreno envolvente (m^2): 40
+Numero de quartos: 3
+Numero de WC's: 1
+Numero da porta: 34
+
+
+---Apartamento---
+ID: 6
+Rua: rua do Local
+Preço pedido: 75000
+Preço minimo: 70000
+Estado da habitação: Em Venda
+Tipo: simples
+Área total (m^2): 50
+Numero de quartos: 3
+Numero de WC's: 2
+Numero da porta: 7
+Andar: 2
+Garagem: Sim
+Distrito: Braga
+
+
+---Terreno---
+ID: 8
+Rua: rua das Obras
+Preço pedido: 300000
+Preço minimo: 290000
+Tipo (Habitação ou Armazém): Armazem
+Estado: Em Venda
+Área Total (m^2): 500
+Rede Elétrica: Sim
+Capacidade máxima da rede (kw/h): 120
+Diâmetro da canalização (mm): 20
+Distrito: Viana do Castelo
+
+
+-------------------------
+username: homemharanha
+email:  gomes@gmail.com
+Password: joao1234
+Nome: João Gomes
+Morada: rua do estadio, Porto
+Data de Nascimento: 6/2/1977
+
+Imoveis inseridos:
+
+---Loja---
+ID: 56
+Rua: rua dos Mercadores
+Preço pedido: 60000
+Preço minimo: 50000
+Estado da habitação: Em Venda
+Habitavel: Nao
+Área (m^2): 40
+WC: Nao
+Tipo de negocio: Mercearia
+Numero da porta: 120
+Distrito: Aveiro
+
+---Loja Habitavel---
+ID: 58
+Rua: rua dos caes
+Preço pedido: 140000
+Preço minimo: 125000
+Estado da habitação: Em Venda
+Habitavel: Sim
+Área (m^2): 75
+WC: Sim
+Tipo de negocio: Loja de animais
+Numero da porta: 23
+Distrito: Evora
+Número de quartos: 3
+Número de WC's: 1
+Garagem: Sim
+Tipo de Apartamento(simples, duplex, triplex): simples
+
+---Apartamento---
+ID: 59
+Rua: rua dos cabecas
+Preço pedido: 130000
+Preço minimo: 120000
+Estado da habitação: Em Venda
+Tipo: duplex
+Área total (m^2): 70
+Numero de quartos: 5
+Numero de WC's: 2
+Numero da porta: 3
+Andar: 5
+Garagem: Sim
+Distrito: Porto
+
+
+---Apartamento---
+ID: 63
+Rua: rua dos frossos 
+Preço pedido: 80000
+Preço minimo: 75000
+Estado da habitação: Em Venda
+Tipo: duplex
+Área total (m^2): 50
+Numero de quartos: 4
+Numero de WC's: 1
+Numero da porta: 34
+Andar: 1
+Garagem: Nao
+Distrito: Porto
+
+---Moradia---
+ID: 64
+Tipo (geminada,banda,gaveto): gaveto
+Distrito: Aveiro
+Rua: rua das frutas
+Preço pedido: 275000
+Preço minimo: 270000
+Estado da habitação: Em Venda
+Área de implantação (m^2): 250
+Área total coberta (m^2): 200
+Área do terreno envolvente (m^2): 50
+Numero de quartos: 7
+Numero de WC's: 4
+Numero da porta: 156
+
+
+-------------------------------
+username: frango
+email:  barbosa@gmail.com
+Password: paulo1234
+Nome: Paulo Barbosa
+Morada: rua do Ferro, Evora
+Data de Nascimento: 26/12/1990
+
+Imoveis inseridos:
+
+---Terreno---
+ID: 120
+Rua: rua das Obras
+Preço pedido: 150000
+Preço minimo: 130000
+Tipo (Habitação ou Armazém): Habitacao
+Área Total (m^2): 200
+Rede Elétrica: Nao
+Capacidade máxima da rede (kw/h): 0
+Diâmetro da canalização (mm): 0
+Distrito: Porto
+
+
+
+---Loja---
+ID: 127
+Rua: rua da praceta
+Preço pedido: 67000
+Preço minimo: 60000
+Estado da habitação: Em Venda
+Habitavel: Nao
+Área (m^2): 65
+WC: Nao
+Tipo de negocio: Quiosque
+Numero da porta: 28
+Distrito: Braga
+
+
+---Terreno---
+ID: 128
+Rua: rua das Pestanas
+Preço pedido: 200000
+Preço minimo: 180000
+Tipo (Habitação ou Armazém): Armazem
+Área Total (m^2): 200
+Rede Elétrica: Sim
+Capacidade máxima da rede (kw/h): 120
+Diâmetro da canalização (mm): 20
+Distrito: Guimaraes
+
+
+
+---Loja Habitavel---
+ID: 130
+Rua: rua da praceta
+Preço pedido: 120000
+Preço minimo: 100000
+Estado da habitação: Em Venda
+Habitavel: Sim
+Área (m^2): 100
+WC: Sim
+Tipo de negocio: Peixaria
+Numero da porta: 129
+Distrito: Braga
+Número de quartos: 4
+Número de WC's: 2
+Garagem: Sim
+Tipo de Apartamento(simples, duplex, triplex): triplex

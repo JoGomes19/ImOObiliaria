@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EmailInvalidoException()
+comment0.text=\n\ Construtor\ vazio,\ ou\ seja,\ apenas\ invoca\ o\ construtor\ da\ superclasse.\n
+comment1.params=message
+comment1.target=EmailInvalidoException(java.lang.String)
+comment1.text=\n\ Construtor\ parametrizado,\ ou\ seja,\ recebe\ uma\ String\ como\ par\u00E2metro\ para\ informa\u00E7\u00E3o,\ que\ invoca\ igualmente\ o\ construtor\ da\ superclasse\ que\ aceita\ uma\ String\ por\ par\u00E2metro.\n
+comment2.params=
+comment2.target=java.lang.String\ getMessage()
+comment2.text=\n\ A\ fun\u00E7\u00E3o\ getMessage\ imprime\ o\ texto\ de\ exce\u00E7\u00E3o.\n
+numComments=3

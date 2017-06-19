@@ -1,0 +1,105 @@
+COMPRADORES:
+
+------------
+username: Jorge1
+email: antunes@gmail.com
+Password: ant1234
+Nome: Jorge Antunes
+Morada: Rua das Flores, Porto
+Data de Nascimento: 12/06/1978
+
+
+------------
+
+username: Pires
+email: pires@gmail.com
+Password: pires1234
+Nome: Ricardo Pires
+Morada: Rua a tal, Braga
+Data de Nascimento: 24/10/1974
+
+
+------------
+
+username: marquex
+email: marques@gmail.com
+Password: anaqwerty
+Nome: Ana Marques
+Morada: Rua de Barros, Aveiro
+Data de Nascimento: 01/06/1989
+
+------------
+
+username: miguelito
+email: miguel@gmail.com
+Password: carlitospass
+Nome: Carlos Miguel
+Morada: Rua do Monte ,Bragança
+Data de Nascimento: 26/3/1983
+
+------------
+
+username: fetonix
+email: ramos@gmail.com
+Password: ramos789
+Nome: João Ramos
+Morada: Rua das Enguardas, Braga
+Data de Nascimento: 17/04/1990
+
+------------
+
+username: Clarinhas
+email: aveiro@gmail.com
+Password: 784578
+Nome: Clara Aveiro
+Morada: Rua das Abelhas, Lisboa
+Data de Nascimento: 01/03/1967
+
+------------
+
+username: pereira
+email:pereira@gmail.com
+Password: pereira4545
+Nome: Joana Pereira
+Morada: Travessa do Monte Baixo, Braga
+Data de Nascimento: 29/03/1970
+
+------------
+
+username: vascon
+email: vasconcelos@gmail.com
+Password: ventanias
+Nome: Luis Vasconcelos
+Morada: Rua da estrada, Braganca
+Data de Nascimento: 22/02/1983
+
+------------
+
+username: MeiraP
+email: meira@gmail.com
+Password: meir1234
+Nome: Paulo Meira
+Morada: rua dos jovens , Porto
+Data de Nascimento: 28/7/1971
+
+------------
+
+username: coelho
+email: lebre@gmail.com
+Password: coelhinho
+Nome: Joao Lebre 
+Morada: rua da toca , Guimaraes
+Data de Nascimento: 3/5/1987
+
+------------
+
+username: Daluz
+email: luz@gmail.com
+Password: mdaluz1234
+Nome: Maria da Luz
+Morada: rua vergadela , Braga
+Data de Nascimento: 3/6/1990
+
+
+
+
